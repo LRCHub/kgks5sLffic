@@ -1,0 +1,73 @@
+# Ricardo Montaner – Tan Enamorados
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:34.88] Quizás te puedas preguntar
+[00:40.06] ¿Qué le hace falta
+[00:42.55] A esta noche blanca?
+[00:52.55] 
+[00:47.02] A nuestras vidas
+[00:49.76] Que ya han vivido tanto
+[00:53.30] Que han visto mil colores
+[00:56.79] De sábanas de seda
+[01:05.79] 
+[01:01.26] Y cuando llueve
+[01:03.98] Te gusta caminar
+[01:08.25] Vas abrazándome
+[01:10.78] Sin prisa aunque te mojes
+[01:23.28] 
+[01:15.22] Amor mío
+[01:17.76] Lo nuestro es como es
+[01:21.16] Es toda una aventura
+[01:24.51] No le hace falta nada
+[01:35.01] 
+[01:27.85] Y estoy aquí
+[01:31.35] Tan enamorado de ti
+[01:38.03] Que la noche dura un poco más
+[01:44.98] El grito de una ciudad
+[01:51.75] Que ve en nuestras caras
+[01:55.50] La humedad
+[02:00.50] 
+[01:58.62] Y te haré compañía
+[02:02.14] Más allá de la vida
+[02:05.58] Yo te juro que arriba
+[02:08.85] Te amaré más
+[02:14.85] 
+[02:12.43] Tan enamorados
+[02:16.74] Que así
+[02:19.69] La noche dura
+[02:22.56] Un poco más
+[02:28.06] 
+[02:39.45] La mañana nos traerá
+[02:44.48] Un canto nuevo
+[02:46.92] De pájaros alegres
+[02:55.92] 
+[02:51.21] Amor mío
+[02:53.71] Así es la vida juntos
+[02:57.25] Dos locos de repente
+[03:00.57] Sonriéndole a la gente
+[03:03.92] Que nos ve pasar
+[03:11.92] 
+[03:07.63] Tan enamorado
+[03:12.34] Que así
+[03:14.41] La noche dura
+[03:17.37] Un poco más
+[03:21.03] Viajar a tu lado en el tren
+[03:27.84] Un sueño difícil
+[03:31.13] De creer
+[03:35.13] 
+[03:34.78] Poco a poco el abrazo
+[03:38.16] Boca a boca despacio
+[03:41.70] Aliento y suspiros tibios
+[03:45.34] Anochecer
+[03:49.84] 
+[03:48.59] Tan enamorados
+[03:53.38] Que así
+[03:55.68] La noche dura
+[03:58.58] Un poco más
+[04:04.08] 
+[04:15.90] Viajar a tu lado en el tren
+[04:22.73] Un sueño difícil
+[04:26.17] De creer
+```
